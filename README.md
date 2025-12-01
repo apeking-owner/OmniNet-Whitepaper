@@ -1,9 +1,7 @@
-OmniNet: A next-generation internet architecture and protocol layer.
-
 OmniNet Protocol — v2.0
-A New Internet Architecture for Identity, Intelligence, and Holographic Computing
+A Next-Generation Internet Architecture for Identity, Intelligence & Holographic Computing
 
-OmniNet is a next-generation internet layer designed to unify identity, data, knowledge, intelligence, and global communication into a single user-owned ecosystem.
+OmniNet is a next-generation internet layer engineered to unify identity, data, intelligence, communication, and device interaction into a single user-owned digital ecosystem.
 
 This repository contains the official OmniNet Whitepaper v2.0, authored by:
 
@@ -11,94 +9,141 @@ Alain Mercier
 Creator and Architect of the OmniNet Protocol
 © 2025 — All Rights Reserved.
 
-What Is OmniNet?
+🌐 What Is OmniNet?
 
-OmniNet replaces the fragmented, centralized, surveillance-driven structure of today’s internet with a unified, privacy-first architecture built on:
+OmniNet introduces a new internet architecture designed for the age of AI, AR, holographic interfaces, distributed intelligence, and multi-device computing.
 
-Identity (OmniID)
+It replaces today’s centralized, surveillance-driven, siloed web with a unified, privacy-first, intelligence-native layer built on:
 
-Encrypted personal data (OmniVault)
+🔑 Core Components
+• OmniID — Universal Identity Layer
 
-Semantic knowledge graph (OmniGraph)
+Decentralized, cryptographically secure personal identity.
 
-Holographic multi-modal UI (OmniUI)
+• OmniVault — Encrypted Personal Data Core
 
-Multi-device sync (OmniSync)
+Private memory storage with user-controlled access.
 
-Device mesh networking (OmniMesh)
+• OmniGraph — Semantic Knowledge Graph
 
-New communication protocol (OmniProtocol)
+Your data, memories, devices, and AI agents represented as a unified graph.
 
-Distributed compute (HyperStructures)
+• OmniUI — Holographic Multi-Modal Interface
 
-Global routing layer (PrimeNet)
+AR/holographic user interface for next-generation computing.
 
-Trust-based value system (OmniEconomy)
+• OmniSync — Universal Sync Layer
 
-Developer SDK (OmniNet SDK)
+Real-time sync across all devices, apps, and environments.
 
-OmniNet is not a blockchain, not a cloud service, and not a traditional OS.
-It is a new internet layer designed for the age of AI, AR, holographic computing, and distributed intelligence.
+• OmniMesh — Device-to-Device Mesh Network
 
-Whitepaper
+Local and global mesh networking for resilient communication.
 
-The official whitepaper is located here:
+• OmniProtocol — New Communication Protocol
 
-/v2.0/OmniNet-Whitepaper-v2.0.md
+An intelligent, graph-native alternative to legacy TCP/IP interactions.
 
-It includes the full architecture, 22 development phases, diagrams, and long-term vision.
+• HyperStructures — Distributed Compute Layer
 
-Ownership
+Self-optimizing compute architecture across personal and global networks.
 
-All concepts, systems, architecture, and IP are the creation of:
+• PrimeNet — Global Routing Layer
+
+Next-generation routing for identity, knowledge, and intelligent agents.
+
+• OmniEconomy — Trust-Based Value System
+
+A new model for digital value, trust scoring, and personal data exchange.
+
+• OmniNet SDK — Developer Framework
+
+Tools for building graph-native, identity-native, AI-native apps.
+
+🚫 What OmniNet Is Not
+
+OmniNet is not:
+
+Not a blockchain
+
+Not a cloud service
+
+Not a traditional OS
+
+Not Web2 or Web3
+
+Not a centralized platform
+
+OmniNet is a new internet layer — designed from the ground up for:
+
+AI-native computing
+
+Augmented & holographic interfaces
+
+Global personal intelligence networks
+
+User sovereignty & privacy
+
+📄 Whitepaper
+
+The full architecture, diagrams, and 22-phase developmental roadmap are available here:
+
+➡ /v2.0/OmniNet-Whitepaper-v2.0.md
+
+⚖️ Ownership & Rights
+
+All concepts, systems, architecture, and intellectual property in this project are the creation of:
 
 Alain Mercier
 Creator of the OmniNet Protocol
 © 2025 — All Rights Reserved.
 
-See the following files:
+See files:
+
 OWNERSHIP.md
+
 LICENSE
 
-Vision
+🚀 Vision
 
-OmniNet aims to become the foundational digital layer for:
+OmniNet aims to become the foundational layer for the next era of computing:
 
-AI-native personal computing
+AI-Native Personal Computing
 
-AR and holographic operating environments
+AR & Holographic Operating Environments
 
-Global-scale personal intelligence
+Global-Scale Personal Intelligence
 
-Distributed compute networks
+Distributed Compute Networks
 
-Universal identity and trust
+Universal Identity & Trust Frameworks
 
-A safer, user-owned future internet
+A Safer, User-Owned Future Internet
 
-Planned Development
+OmniNet’s long-term vision is a world where individuals control their identity, data, knowledge, devices, and AI — across a global, user-owned digital foundation.
 
-Upcoming public milestones:
+🧭 Planned Development (Public Roadmap)
+Upcoming Milestones
 
-OmniNet OS (UI and holographic interactions)
+OmniNet OS (AR + holographic UI system)
 
 OmniGraph Engine
 
-OmniProtocol networking simulation
+OmniProtocol Networking Simulation
 
-OmniMesh device network
+OmniMesh Device-to-Device Network
 
-OmniSync delta-sync engine
+OmniSync Delta-Sync Engine
 
-OmniNet SDK (graph-native app framework)
+OmniNet SDK (Graph-Native Developer Framework)
 
-Holographic UI prototypes
+Holographic UI Prototypes
 
-PrimeNet global routing simulation
+PrimeNet Global Routing Simulation
 
-Contact
+📬 Contact
 
-For partnerships, collaboration, or research:
+For partnerships, collaboration, or research inquiries:
 
 Alain Mercier
-Email: mercier_racing95@hotmail.com
+📧 Email: mercier_racing95@hotmail.com
